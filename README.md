@@ -38,3 +38,7 @@ Open three different terminals and run the following commands:
 
 ## Customization
 You can modify the source code to experiment with different data processing logic, neuron functions, or IPC mechanisms to enhance the simulation and explore various aspects of neural network operations.
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/license/MIT)- see the LICENSE file for details.
+
